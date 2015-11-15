@@ -1,0 +1,2 @@
+REDDIT_USERNAME = 'UWAdvisorBot'
+REDDIT_PASSWORD = 'minterms2015'

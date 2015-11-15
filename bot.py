@@ -1,4 +1,9 @@
 import praw
+import pdb
+import re
+import os
+from bot_info import *
+
 
 user_agent = ("Advisor Bot 0.1")
 
