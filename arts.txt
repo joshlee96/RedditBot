@@ -1,0 +1,46 @@
+School of Accounting and Finance|Darren Charters|dcharters
+Anthropology|Gotz Hoeppe|ghoeppe
+Applied Language Studies|Julia Williams|jpwillia
+Arts and Business co-op & regular|Susan Andrews|sandrews
+Church Music and Worship|Mark Vuorinen|mvuorinen
+Classical Studies|Andrew Faulkner|afaulkne
+Cognitive Science|Paul Thagard|pthagard
+Computing and Financial Management|Jordyn Gray-McInnis|jagraymc
+Drama|Robert Danisch|rdanisch
+Digital Arts Communication|Ceylan Turkeri|cturkeri
+East Asian Studies|Damaris McKinley|damaris.mckinley
+Economics|Lutz-Alexander Busch|lbusch
+Economics|John Burbidge|jburbidge
+Economics|Dinghai Xu (China 2+2 students)|dhxu
+English|Jay Dolmage|englug
+Environment and Economics minor|Alain Nimubona|animubon
+Fine Arts|Cora Cluett|ccluett
+French Studies|Tara Collington|tcollington
+German|Paul Malone|pmalone
+Global Business and Digital Arts|Andrea West|amwest
+History|Julia Roberts|robertsj
+Human Resources Management|Theresa Bauer|tbauer
+Human Sciences|Kieran Bonner|kieran.bonner
+Independent Studies|Linda Carson|lccarson
+International Studies|Veronica Kitchen|vkitchen
+Islam Studies|Idrisa Pandit|idrisa.pandit
+Italian Studies|Gabriel Niccoli|gniccoli
+Jewish Studies|Jim Diamond|jdiamond
+Legal Studies|Marina Topalcevic|mtopalce
+Management Studies|Geoff Malleck|gmalleck
+Medieval Studies|David Porreca|dporreca
+Mennonite Studies|Marlene Epp|mgepp
+Music|Mark Vuorinen|mvuorinen
+Peace and Conflict Studies|Rachel Reist|rreist
+Philosophy|Mathieu Doucet|mathieu.doucet
+Political Science|Veronica Kitchen|vkitchen
+Psychology - Major|Emily Mininger|emininger
+Psychology - Minor|Theresa Bauer|tbauer
+Religious Studies|Jim Diamond|jdiamond
+Russian and East European Studies|Paul Malone|pmalone
+Sexuality, Marriage, and Family Studies|John Arnou|jarnou
+Sociology - Regular|Janice Aurini|jaurini
+Sociology - Co-op|Sarah Wilkins-Laflamme|sarah.wilkins-laflamme
+Spanish and Latin American Studies|Maria del Carmen Sillato|msillato
+Speech Communication|Robert Danisch|rdanisch
+Women's Studies|Shannon Dea|sjdea

@@ -1,0 +1,40 @@
+Mathematics Undergraduate Office (MUO)|Staff|mathuo
+Accountancy (CPA)|P. Balka|pbalka
+Actuarial Science|J. Adcock, D. Dawoud, A. Pfeifer-Hanov|ACTSCadv
+Applied Mathematics and Mathematical Physics|D. Chang|dechang
+Bioinformatics|L. Case|lmcase
+BBA/BCS Double Degree|D. Tompkins|bbabcs-advisor
+BBA/BMath Double Degree|K. Freeland|rkfreeland
+Wilfrid Laurier University|A. Ellis|aellis
+Wilfrid Laurier University|B. Ankucza|bankucza
+Combinatorics & Optimization and Mathematical Optimization|B. Guenin|bguenin
+Computational Mathematics|M. Pei|mpei
+Computational Mathematics|P. Smith|paula.smith
+Computing and Financial Management|J. Gray-Mcinnis|jagraymcinnis
+Digital Hardware|L. Case|lmcase
+Exchange programs|C. Honsberger|mathex
+Financial Analysis & Risk Management (FARM)|P. Wood|farm.advisors
+Health Informatics Option|A. Beltaos|abeltaos
+Information Technology Management|M. Liu|m47liu
+Mathematics/Business|P. Blake|peter.blake
+Mathematics/English Language for Academic Studies (ELAS)|J. Reidt|judy.reidt
+Mathematical Studies|M. Akash|muktoakash
+Mathematical Studies|D. Harmsworth|dlharmsworth
+Mathematical Studies|S. New|snew
+Mathematical Studies|S. Speziale|sspeziale
+Mathematics/Teaching|B. Ferguson|bafergus
+Mathematics/Teaching|C. Sedore|cwjackson
+Pure Math & Mathematical Finance|R. Moraru|moraru
+Statistics|J. Adcock|statsadv
+Statistics|D. Dawoud|statsadv
+Statistics|A. Pfeifer-Hanov|statsadv
+Statistics|R. Metzger|statsadv
+Three-Year General|D. Harmsworth|dlharmsworth
+Three-Year General|P. Smith|paula.smith
+Co-op advisors|D. Dawoud|coopmath
+Co-op advisors|E. Dupont|coopmath
+Co-op advisors|S. Speziale|coopmath
+Internal transfers to Mathematics|P. Smith|paula.smith
+Letter of permission|P. Smith|paula.smith
+Math minors and joint honours for students in other faculties|D. Wolczuk|dstwolczuk
+Non-degree and post-degree|C. Donovan|cdonovan

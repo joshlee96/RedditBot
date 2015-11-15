@@ -1,0 +1,16 @@
+First Year|Bill Owen|bowen
+First Year|Mary Robinson|mary.robinson
+First Year|Karen Dyck|karen
+School of Architecture|Lola Sheppard|lsheppard
+Biomedical Engineering|Maud Gorbet|mgorbet
+Software Engineering|Mahesh Tripunitara|se-assoc
+Systems Design Engineering|Carolyn MacGregor|sydeunde
+Chemical Engineering|Marios Ioannidis|mioannidis
+Civil Engineering|Robert McKillop|rmckillo
+Computer Engineering|Hiren Patel|ceaa
+Electrical Engineering|Liang-Liang Xie|llxie
+Environmental and Geological Engineering|Jeff West|jswest
+Management Engineering|Mark Smucker|mark.smucker
+Mechanical Engineering|David Weckman|me-ugchair
+Mechatronics Engineering|William Melek|william.melek
+Nanotechonology Engineering|Hany Aziz|h2aziz
