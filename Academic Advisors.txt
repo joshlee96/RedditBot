@@ -1,51 +1,95 @@
-Arts Advisors
-519-888-4567 
+Arts Advisors:
+School of Accounting and Finance	Darren Charters	 dcharters@uwaterloo.ca
+Anthropology	Gotz Hoeppe	ghoeppe@uwaterloo.ca
+Applied Language Studies	Julia Williams		jpwillia@uwaterloo.ca
+Arts and Business co-op & regular	Susan Andrews		sandrews@uwaterloo.ca
+Church Music and Worship	Mark Vuorinen		mvuorinen@uwaterloo.ca
+Classical Studies   Andrew Faulkner		afaulkne@uwaterloo.ca
+Cognitive Science	Paul Thagard		pthagard@uwaterloo.ca
+Computing and Financial Management	Jordyn Gray-McInnis	jagraymc@uwaterloo.ca
+Drama	Robert Danisch		rdanisch@uwaterloo.ca	
+Digital Arts Communication	Ceylan Turkeri		cturkeri@uwaterloo.ca
+East Asian Studies	Damaris McKinley	damaris.mckinley@uwaterloo.ca
+Economics     Lutz-Alexander Busch	lbusch@uwaterloo.ca
+Economics 	John Burbidge     	jburbidge@uwaterloo.ca
+Economics 	Dinghai Xu (China 2+2 students)		dhxu@uwaterloo.ca
+English		Jay Dolmage	englug@uwaterloo.ca
+Environment and Economics minor	Alain Nimubona		animubon@uwaterloo.ca
+Fine Arts	Cora Cluett		ccluett@uwaterloo.ca
+French Studies	Tara Collington		tcollington@uwaterloo.ca
+German		Paul Malone	pmalone@uwaterloo.ca	
+Global Business and Digital Arts	Andrea West	amwest@uwaterloo.ca
+History		Julia Roberts		robertsj@uwaterloo.ca
+Human Resources Management	Theresa Bauer	  tbauer@uwaterloo.ca
+Human Sciences		Kieran Bonner		kieran.bonner@uwaterloo.ca
+Independent Studies	Linda Carson		lccarson@uwaterloo.ca
+International Studies	Veronica Kitchen	vkitchen@uwaterloo.ca
+Islam, Studies in	Idrisa Pandit		idrisa.pandit@uwaterloo.ca
+Italian Studies		Gabriel Niccoli		gniccoli@uwaterloo.ca
+Jewish Studies		Jim Diamond		jdiamond@uwaterloo.ca
+Legal Studies		Marina Topalcevic	mtopalce@uwaterloo.ca
+Management Studies	Geoff Malleck		gmalleck@uwaterloo.ca
+Medieval Studies	David Porreca		dporreca@uwaterloo.ca
+Mennonite Studies	Marlene Epp		mgepp@uwaterloo.ca
+Music		Mark Vuorinen		mvuorinen@uwaterloo.ca
+Peace and Conflict Studies	Rachel Reist	rreist@uwaterloo.ca
+Philosophy	Mathieu Doucet		mathieu.doucet@uwaterloo.ca
+Political Science	Veronica Kitchen	vkitchen@uwaterloo.ca
+Psychology - Major   Emily Mininger  	 emininger@uwaterloo.ca
+Psychology - Minor	Theresa Bauer 		tbauer@uwaterloo.ca
+Religious Studies	Jim Diamond		jdiamond@uwaterloo.ca
+Russian and East European Studies	Paul Malone	pmalone@uwaterloo.ca
+Sexuality, Marriage, and Family Studies		John Arnou	jarnou@uwaterloo.ca
+Sociology - Regular 	Janice Aurini 		jaurini@uwaterloo.ca
+Sociology - Co-op 	Sarah Wilkins-Laflamme		sarah.wilkins-laflamme@uwaterloo.ca
+Spanish and Latin American Studies	Maria del Carmen Sillato	msillato@uwaterloo.ca
+Speech Communication	Robert Danisch		rdanisch@uwaterloo.ca
+Women's Studies		Shannon Dea		sjdea@uwaterloo.ca
 
-Plan/Program	Advisor	Office	Extension
+Math
 
-School of Accounting and Finance	Darren Charters	HH 3153	32570
-Anthropology	Gotz Hoeppe	PAS 2015	32603
-Applied Language Studies	Julia Williams	REN 0217	28658
-Arts and Business co-op & regular	Susan Andrews	PAS 2439	35870
-Church Music and Worship	Mark Vuorinen	CGR 1104	24220
-Classical Studies   Andrew Faulkner	ML 240	36883
-Cognitive Science	Paul Thagard	HH 368	33594
-Computing and Financial Management	Jordyn Gray-McInnis	DC 3107	37033
-Drama	Robert Danisch	ML 236B	38603
-Digital Arts Communication	Ceylan Turkeri	ML 119A	35808
-East Asian Studies	Damaris McKinley	REN 1114	28645
-Economics     Lutz-Alexander Busch 	HH 127		35229
-Economics 	John Burbidge     HH 125 	37204
-Economics 	Dinghai Xu (China 2+2 students)		HH 201		32047
-English	Jay Dolmage	HH 324	31035
-Environment and Economics minor	Alain Nimubona	HH 212	33949
-Fine Arts	Cora Cluett	ECH 1212	32599
-French Studies	Tara Collington	ML 334B	36123
-German	Paul Malone	ML 213	33202
-Global Business and Digital Arts	Andrea West	DMS 1007	23009
-History	Julia Roberts	HH 107	32380
-Human Resources Management	Theresa Bauer	PAS 4053	36535
-Human Sciences	Kieran Bonner	PAS 2047	38688
-Independent Studies	Linda Carson	ECH 1108	38383
-International Studies	Veronica Kitchen	HH 312	32418
-Islam, Studies in	Idrisa Pandit	REN 0233A	28668
-Italian Studies	Gabriel Niccoli	SJU 3007	28235
-Jewish Studies	Jim Diamond	PAS 1051	33351
-Legal Studies	Marina Topalcevic	PAS 2046	38995
-Management Studies	Geoff Malleck	HH 132	32654
-Medieval Studies	David Porreca	ML 227	32426
-Mennonite Studies	Marlene Epp	CGR 2124	24257
-Music	Mark Vuorinen	CGR 1104	24220
-Peace and Conflict Studies	Rachel Reist	CGR 2103B	24269
-Philosophy	Mathieu Doucet	HH 328	32824
-Political Science	Veronica Kitchen	HH 312	32418
-Psychology - Major   Emily Mininger  	PAS 4007       37190
-Psychology - Minor	Theresa Bauer 	PAS 4053  	36535
-Religious Studies	Jim Diamond	PAS 1051	33351
-Russian and East European Studies	Paul Malone	ML 213	33202
-Sexuality, Marriage, and Family Studies	John Arnou	SJU 2003	28241
-Sociology - Regular Janice Aurini PAS 2064 38343
-Sociology - Co-op Sarah Wilkins-Laflamme PAS 2027 35187
-Spanish and Latin American Studies	Maria del Carmen Sillato	ML 318	33606
-Speech Communication	Robert Danisch	ML 236B	38603
-Women's Studies	Shannon Dea	HH 329	32778
+Mathematics Undergraduate Office (MUO)      Staff		mathuo@uwaterloo.ca
+Accountancy (CPA)	P. Balka	   pbalka@uwaterloo.ca	
+Actuarial Science	J. Adcock, D. Dawoud, A. Pfeifer-Hanov	  	ACTSCadv@uwaterloo.ca
+Applied Mathematics and Mathematical Physics	D. Chang	dechang@uwaterloo.ca
+Bioinformatics		L. Case		lmcase@uwaterloo.ca
+BBA/BCS Double Degree		D. Tompkins		bbabcs-advisor@uwaterloo.ca
+BBA/BMath Double Degree		K. Freeland		rkfreeland@uwaterloo.ca
+Wilfrid Laurier University 	A. Ellis		aellis@wlu.ca	
+Wilfrid Laurier University 	B. Ankucza		bankucza@wlu.ca
+Combinatorics & Optimization and Mathematical Optimization	B. Guenin	bguenin@uwaterloo.ca
+Computational Mathematics	M. Pei		mpei@uwaterloo.ca	
+Computational Mathematics	P. Smith	paula.smith@uwaterloo.ca
+Computing and Financial Management	J. Gray-Mcinnis		jagraymcinnis@uwaterloo.ca
+Digital Hardware	L. Case	 	lmcase@uwaterloo.ca
+Exchange programs	C. Honsberger		mathex@uwaterloo.ca
+Financial Analysis & Risk Management (FARM)	P. Wood		farm.advisors@uwaterloo.ca
+Health Informatics Option	A. Beltaos	abeltaos@uwaterloo.ca
+Information Technology Management	  M. Liu		m47liu@uwaterloo.ca
+Mathematics/Business		P. Blake	peter.blake@uwaterloo.ca
+Mathematics/English Language for Academic Studies (ELAS)	J. Reidt	judy.reidt@uwaterloo.ca
+Mathematical Studies:
+	M. Akash	muktoakash@uwaterloo.ca	
+	D. Harmsworth		dlharmsworth@uwaterloo.ca
+	S. New			snew@uwaterloo.ca
+	S. Speziale		sspeziale@uwaterloo.ca	
+Mathematics/Teaching:
+	B. Ferguson		bafergus@uwaterloo.ca
+	C. Sedore		cwjackson@uwaterloo.ca
+Pure Math & Mathematical Finance	 R. Moraru	moraru@uwaterloo.ca
+Statistics:
+	J. Adcock		statsadv@uwaterloo.ca
+	D. Dawoud		statsadv@uwaterloo.ca
+	A. Pfeifer-Hanov 	statsadv@uwaterloo.ca
+	R. Metzger		statsadv@uwaterloo.ca
+Three-Year General:
+	D. Harmsworth		dlharmsworth@uwaterloo.ca
+	P. Smith		paula.smith@uwaterloo.ca
+Co-op advisors:
+	D. Dawoud		coopmath@uwaterloo.ca
+	E. Dupont		coopmath@uwaterloo.ca
+	S. Speziale		coopmath@uwaterloo.ca
+Internal transfers to Mathematics	P. Smith	paula.smith@uwaterloo.ca
+Letter of permission	P. Smith		paula.smith@uwaterloo.ca
+Math minors and joint honours for students in other faculties	D. Wolczuk	dstwolczuk@uwaterloo.ca
+Non-degree and post-degree 	C. Donovan	cdonovan@uwaterloo.ca
