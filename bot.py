@@ -27,7 +27,7 @@ while(True):
         with open("replied_posts.txt", "r") as f:
             # Reads and filters the replied threads, and filters out the empty posts
             replied_posts = f.read()
-            replied_posts = replied_posts("\n")
+            replied_posts = replied_posts.split("\n")
             replied_posts = filter(None, replied_posts)
 
 
@@ -42,7 +42,6 @@ while(True):
                 submission.add_comment("HAHAHAHAA")
                 print("Bot is replying to :", submission.title)
                 replied_posts.append(submission.id)
-                time.sleep(600)
 
 
     with open("replied_posts.txt", "w") as f:
