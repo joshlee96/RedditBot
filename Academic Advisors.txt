@@ -1,4 +1,3 @@
-Arts Advisors:
 School of Accounting and Finance|Darren Charters|dcharters@uwaterloo.ca
 Anthropology|Gotz Hoeppe|ghoeppe@uwaterloo.ca
 Applied Language Studies|Julia Williams|jpwillia@uwaterloo.ca
@@ -45,45 +44,3 @@ Sociology - Co-op|Sarah Wilkins-Laflamme|sarah.wilkins-laflamme@uwaterloo.ca
 Spanish and Latin American Studies|Maria del Carmen Sillato|msillato@uwaterloo.ca
 Speech Communication|Robert Danisch|rdanisch@uwaterloo.ca
 Women's Studies|Shannon Dea|sjdea@uwaterloo.ca
-
-Math Advisors:
-Mathematics Undergraduate Office (MUO)|Staff|mathuo@uwaterloo.ca
-Accountancy (CPA)|P. Balka|pbalka@uwaterloo.ca	
-Actuarial Science|J. Adcock, D. Dawoud, A. Pfeifer-Hanov|ACTSCadv@uwaterloo.ca
-Applied Mathematics and Mathematical Physics|D. Chang|dechang@uwaterloo.ca
-Bioinformatics|L. Case|lmcase@uwaterloo.ca
-BBA/BCS Double Degree|D. Tompkins|bbabcs-advisor@uwaterloo.ca
-BBA/BMath Double Degree|K. Freeland|rkfreeland@uwaterloo.ca
-Wilfrid Laurier University|A. Ellis|aellis@wlu.ca	
-Wilfrid Laurier University|B. Ankucza|bankucza@wlu.ca
-Combinatorics & Optimization and Mathematical Optimization|B. Guenin|bguenin@uwaterloo.ca
-Computational Mathematics|M. Pei|mpei@uwaterloo.ca	
-Computational Mathematics|P. Smith|paula.smith@uwaterloo.ca
-Computing and Financial Management|J. Gray-Mcinnis|jagraymcinnis@uwaterloo.ca
-Digital Hardware|L. Case|lmcase@uwaterloo.ca
-Exchange programs|C. Honsberger|mathex@uwaterloo.ca
-Financial Analysis & Risk Management (FARM)|P. Wood|farm.advisors@uwaterloo.ca
-Health Informatics Option|A. Beltaos|abeltaos@uwaterloo.ca
-Information Technology Management|M. Liu|m47liu@uwaterloo.ca
-Mathematics/Business|P. Blake|peter.blake@uwaterloo.ca
-Mathematics/English Language for Academic Studies (ELAS)|J. Reidt|judy.reidt@uwaterloo.ca
-Mathematical Studies|M. Akash|muktoakash@uwaterloo.ca	
-Mathematical Studies|D. Harmsworth|dlharmsworth@uwaterloo.ca
-Mathematical Studies|S. New|snew@uwaterloo.ca
-Mathematical Studies|S. Speziale|sspeziale@uwaterloo.ca	
-Mathematics/Teaching|B. Ferguson|bafergus@uwaterloo.ca
-Mathematics/Teaching|C. Sedore|cwjackson@uwaterloo.ca
-Pure Math & Mathematical Finance|R. Moraru|moraru@uwaterloo.ca
-Statistics|J. Adcock|statsadv@uwaterloo.ca
-Statistics|D. Dawoud|statsadv@uwaterloo.ca
-Statistics|A. Pfeifer-Hanov|statsadv@uwaterloo.ca
-Statistics|R. Metzger|statsadv@uwaterloo.ca
-Three-Year General|D. Harmsworth|dlharmsworth@uwaterloo.ca
-Three-Year General|P. Smith|paula.smith@uwaterloo.ca
-Co-op advisors|D. Dawoud|coopmath@uwaterloo.ca
-Co-op advisors|E. Dupont|coopmath@uwaterloo.ca
-Co-op advisors|S. Speziale|coopmath@uwaterloo.ca
-Internal transfers to Mathematics|P. Smith|paula.smith@uwaterloo.ca
-Letter of permission|P. Smith|paula.smith@uwaterloo.ca
-Math minors and joint honours for students in other faculties|D. Wolczuk|dstwolczuk@uwaterloo.ca
-Non-degree and post-degree|C. Donovan|cdonovan@uwaterloo.ca
